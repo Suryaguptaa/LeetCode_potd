@@ -22,9 +22,9 @@ The goal is simple: show up daily, think hard, write clean Java, and track how f
 
 | Metric | Count |
 |---|---|
-| ✅ Problems Solved | 5 |
-| 🔥 Current Streak | 5 days |
-| 🏆 Longest Streak | 5 days |
+| ✅ Problems Solved | 185 |
+| 🔥 Current Streak | 0 days |
+| 🏆 Longest Streak | 0 days |
 | 📅 Started On | 17-02-2026 |
 
 > *Updated regularly. Watch this number grow.*
