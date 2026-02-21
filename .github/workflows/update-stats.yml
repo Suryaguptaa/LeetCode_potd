@@ -24,15 +24,9 @@ jobs:
         with:
           python-version: '3.x'
       
-      - name: Install dependencies
-        run: |
-          pip install requests
-      
-      - name: Update README with LeetCode stats
+      - name: Update README with POTD stats
         run: |
           python scripts/update_stats.py
-        env:
-          LEETCODE_USERNAME: ${{ secrets.LEETCODE_USERNAME }}
       
       - name: Commit and push if changed
         run: |
