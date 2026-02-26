@@ -50,7 +50,7 @@ This repo is proof of that commitment.
 If you're also doing the POTD grind, let's motivate each other!
 
 - 🟡 LeetCode: https://leetcode.com/u/suryaguptaa/
-- 💼 LinkedIn: 
+- 💼 LinkedIn: https://www.linkedin.com/in/suryaguptaa/
 ---
 
 <p align="center">
